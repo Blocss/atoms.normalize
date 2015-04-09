@@ -1,4 +1,4 @@
-# Blocss: Normalize.css – v3.0.3
+# Blocss: Normalize.css – v3.0.3.1
 
 The `normalize.css` module is an exact clone of normalize.css at version v3.0.3.
 normalize.css <q>makes browsers render all elements more consistently and in

@@ -1,6 +1,6 @@
 {
     "name": "blocss-normalize",
-    "version": "3.0.3",
+    "version": "3.0.3.1",
     "homepage": "https://github.com/Blocss/atoms.normalize",
     "authors": [
         "Bram Smulders <bram@bramsmulders.com>",
@@ -11,7 +11,7 @@
     "keywords": [
         "blocss",
         "oocss",
-        "atomic design"
+        "atomic design",
         "css",
         "normalize"
     ],
